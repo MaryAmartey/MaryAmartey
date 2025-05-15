@@ -71,5 +71,5 @@ I'm a Full-Stack Software Engineer with a strong focus on building scalable, end
 
 I'm always open to collaborations, mentorship, and challenging problems. Feel free to reach out!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/maryamartey)](https://www.linkedin.com/in/mary-amartey/)
-- 🌐 Portfolio: [maryamartey.dev](https://mksportfolio.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mary-amartey/)
+- 🌐 Portfolio: [mksportfolio](https://mksportfolio.com/)
